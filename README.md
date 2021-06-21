@@ -1,5 +1,5 @@
 
-[![Php](https://img.shields.io/badge/-Php-black?style=flat&logo=php&link=https://github.com/fredwared)](https://github.com/fredwared)
+[![Php](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/fredwared)](https://github.com/fredwared)
 [![Laravel](https://img.shields.io/badge/Laravel-000?logo=laravel&logoColor=red&link=https://github.com/fredwared)](https://github.com/fredwared)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/fredwared)](https://github.com/fredwared) 
 
@@ -13,3 +13,7 @@
 [![Windows](https://img.shields.io/badge/-Windows-black?style=flat&logo=windows&link=https://github.com/fredwared)](https://github.com/fredwared) 
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&link=https://github.com/fredwared)](https://github.com/fredwared) 
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu&link=https://github.com/fredwared)](https://github.com/fredwared)
+
+
+[![PostGreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=red)](https://github.com/fredwared)
+[![PostGreSQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)](https://github.com/fredwared)
