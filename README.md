@@ -1,5 +1,6 @@
 
 [![Php](https://img.shields.io/badge/-Php-black?style=flat&logo=php&link=https://github.com/fredwared)](https://github.com/fredwared) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/fredwared)](https://github.com/fredwared) 
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/fredwared)](https://github.com/fredwared)
 
