@@ -2,6 +2,8 @@
 [![Php](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/fredwared)](https://github.com/fredwared)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/fredwared)](https://github.com/fredwared)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/fredwared)](https://github.com/fredwared)
+[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&&link=https://github.com/fredwared)](https://github.com/fredwared)
+
 
 [![Laravel](https://img.shields.io/badge/Laravel-000?logo=laravel&logoColor=red&link=https://github.com/fredwared)](https://github.com/fredwared)
 [![VueJs](https://img.shields.io/badge/Vue.js-000?&logo=vue.js&logoColor=4FC08D&link=https://github.com/fredwared)](https://github.com/fredwared)
