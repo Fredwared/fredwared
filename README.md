@@ -15,5 +15,6 @@
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&link=https://github.com/fredwared)](https://github.com/fredwared) 
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu&link=https://github.com/fredwared)](https://github.com/fredwared)
 
-
 [![PostGreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=red)](https://github.com/fredwared)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](http://t.me/fredwared)
