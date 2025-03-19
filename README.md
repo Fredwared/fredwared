@@ -5,6 +5,8 @@
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/fredwared)](https://github.com/fredwared)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/fredwared)](https://github.com/fredwared)
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&&link=https://github.com/fredwared)](https://github.com/fredwared)
+[![Go](https://img.shields.io/badge/-GO-black?style=flat&logo=go&link=https://github.com/fredwared)](https://github.com/fredwared)
+[![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust&link=https://github.com/fredwared)](https://github.com/fredwared)
 
 
 [![Laravel](https://img.shields.io/badge/Laravel-000?logo=laravel&logoColor=red&link=https://github.com/fredwared)](https://github.com/fredwared)
